@@ -5,7 +5,7 @@
 <h1>Building First PHP application Prashant<h1>
 
 <?php
-echo "Version: 1.0";
+echo "Version: 2.0";
 ?>
 
 </body>
